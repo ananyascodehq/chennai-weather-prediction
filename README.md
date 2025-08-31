@@ -29,7 +29,7 @@ The task was to **predict Chennai’s temperature for Sunday (10 AM – 9 PM)** 
 
 ## 📊 Results
 - Achieved leaderboard score: **2.6969 (MAE-RMSE-R² blend)**.  
-- **Ranked #15** on the public leaderboard (first attempt 🚀).  
+- **Ranked #12** on the public leaderboard (first attempt 🚀).  
 
 ---
 
