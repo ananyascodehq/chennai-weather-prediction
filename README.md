@@ -32,9 +32,3 @@ The task was to **predict Chennai’s temperature for Sunday (10 AM – 9 PM)** 
 - **Ranked #12** on the public leaderboard (first attempt 🚀).  
 
 ---
-
-## 🚀 How to Run
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/chennai-weather-prediction.git
-   cd chennai-weather-prediction
